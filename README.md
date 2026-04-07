@@ -76,5 +76,5 @@ If you encounter any problems or have questions about the software, please conta
 
 ## 8. Acknowledgements
 
-This research was funded by the National Key R & D Program of China (No. 2023YFB2603500), National Natural Science Foundation of China (No. 52402493, No. 72525009 and No. 72431009), and Heilongjiang Provincial Natural Science Foundation of China (No. LH2023E055, No. LH2024E059 and No. PL2025E077)
+This research was funded by the National Key R & D Program of China (No. 2023YFB2603500), National Natural Science Foundation of China (No. 52402493, No. 72525009 and No. 72431009), Heilongjiang Provincial Natural Science Foundationof China (No. PL2025E077, No. LH2024E059 and No. LH2023E055), and the Program for Young Talents of Basic Research in Universities of Heilongjiang Province, China (No. YQJH2023146)
 
